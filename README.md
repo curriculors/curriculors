@@ -31,7 +31,7 @@ Aqui está o meu progresso e ganho de "XP" trabalhando em projetos:
 <div align="center">
   <!-- Substitua "SEU_USUARIO_AQUI" pelo seu @ do GitHub nas duas URLs abaixo -->
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=curriculors&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="Combo de Commits" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=curriculors&theme=tokyonight" alt="Combo de Commits" />
 </div>
